@@ -18,5 +18,3 @@ The application runs as follows:
 &nbsp;&nbsp;&nbsp;3)performs a 360 degree scan on current network, sampling signal strength as it goes  
 &nbsp;&nbsp;&nbsp;4)finds the direction of greatest signal strength after calculating a rolling average on sampled data  
 &nbsp;&nbsp;&nbsp;5)orients antenna in most optimal direction  
-
-The aruino code included was a modified version of ..... (fix this, credit source)

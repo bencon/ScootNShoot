@@ -18,7 +18,7 @@ if __name__ == '__main__':
 		print "Invalid arguments for redirect.py"
 		valid = False
 	f.write(sys.argv[4])
-	f.write("/n")
+	f.write("\n")
 	if (valid):
 		filename = 'test.log'
 		with io.open(filename, 'wb') as writer, io.open(filename, 'rb', 1) as reader:
